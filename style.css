@@ -53,3 +53,10 @@ main div p{
     text-align: justify;
     gap: 10px;
 }
+footer{
+    background-color: black;
+    height: 60px;
+    color: white;
+    text-align: center;
+    
+}
