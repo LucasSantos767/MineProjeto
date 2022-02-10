@@ -51,7 +51,6 @@ main div{
 main div p{
     padding: 20px;
     text-align: justify;
-    gap: 10px;
 }
 footer{
     background-color: black;
