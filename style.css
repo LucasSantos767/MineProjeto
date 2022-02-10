@@ -51,4 +51,16 @@ main div{
 main div p{
     padding: 20px;
     text-align: justify;
+<<<<<<< HEAD
 }
+=======
+    gap: 10px;
+}
+footer{
+    background-color: black;
+    height: 60px;
+    color: white;
+    text-align: center;
+    
+}
+>>>>>>> footer
