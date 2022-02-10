@@ -25,3 +25,31 @@ header li a{
     justify-content: flex-end;
     margin-top: 60px;
 }
+main{
+    list-style-type: none;
+    background-color: gray;
+}
+main aside{
+    height: 23em;
+    background-color: darksalmon;
+    float: left;
+    padding: 7%;
+}
+main aside a{
+    font-size: 24px;
+    margin-top: 30px;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+}
+main div{
+    
+   height: 34.8em;
+}
+main div p{
+    padding: 20px;
+    text-align: justify;
+    gap: 10px;
+}
